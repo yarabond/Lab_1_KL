@@ -1,0 +1,1 @@
+/usr/bin/mpic++  -g   CMakeFiles/pp.dir/blocks.cpp.o  -o pp 
